@@ -22,7 +22,9 @@ Turning data into stories and insights
 - 🧮 **Number System Converter** – CLI tool for binary, decimal, hexadecimal conversions  
 - 📈 **Depression Cure Website** - Mental health site with self-assessment quiz and Doctor consultation 
 
+
 ## 📊 GitHub Stats
+
 ![Dona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dona492004&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dona492004&layout=compact&theme=tokyonight)
@@ -30,8 +32,7 @@ Turning data into stories and insights
 
 ## 📫 Connect with Me
 - 📧 Email: dona492004@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/dona-bhattacharjee-2a509b234
-- 📝 Portfolio / Blog: [yourportfolio.com](#)  
+- 💼 LinkedIn: https://www.linkedin.com/in/dona-bhattacharjee-2a509b234  
 
 
-⭐️ From [Dona](https://github.com/dona492004)
+⭐️ Check out more at(https://github.com/dona492004)
