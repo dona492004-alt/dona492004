@@ -25,9 +25,9 @@ Turning data into stories and insights
 
 ## 📊 GitHub Stats
 
-![Dona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dona492004&show_icons=true&theme=tokyonight)
+![Dona's GitHub stats](https://github-readme-stats.vercel.app/api?username=dona492004-alt&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dona492004&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dona492004-alt&layout=compact&theme=radical)
 
 
 ## 📫 Connect with Me
